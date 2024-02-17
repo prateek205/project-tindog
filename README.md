@@ -1,5 +1,7 @@
-Tindog Dating App
+Tindog Dating App.
+
 In this we can booked online the dating of two Dog.
+
 This application is made by HTML, CSS coding by using in Bootstrap.
 
 some following step for running the application:
